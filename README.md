@@ -47,18 +47,4 @@
 
 </p>
 
-<br />
 
-
-<h2> My media </h2>
-
-<a href="https://twitter.com/">
-  <img align="left" alt="Sudnyesh's Twitter" width="22px" src="https://files.catbox.moe/58huqj.svg" />
-</a>
-<a href="https://linkedin.com/in/">
-  <img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://files.catbox.moe/al40oz.svg" />
-</a>
-<a href="https://github.com/JossSong">
-  <img align="left" alt="Sudnyesh's Github" width="22px" src="https://files.catbox.moe/29p6zd.svg" />
-</a>
-<hr>
