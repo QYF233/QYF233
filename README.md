@@ -7,13 +7,13 @@
 
 - ❤  I'm come from China.
 - 🔭 I'm currently pursuing my Bachelor of Technology in Computer Science and Engineering(B.Tech. CSE).
-- 🌱 I'm currently learning Cloud computing, Devops.
-- ✍ I'm now work for ZHIQUTU INC.
+- 🌱 I'm currently learning Blockchain, Metaverse.
+- ✍ I'm a student now.
 - 👯 I'm looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web, App, ML.
 ---
 
-⭐️ Send E-mail  <a href="mailto:Joss@88.com" target="_blank">Joss@88.com</a>
+⭐️ Send E-mail  <a href="mailto:kikohacker@qq.com" target="_blank">kikohacker@qq.com</a>
 
 <br />
 
